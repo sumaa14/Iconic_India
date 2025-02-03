@@ -1,0 +1,217 @@
+.h-center
+{
+text-align:center;
+}
+.main-heading
+{
+    color:black;
+    font-family:"Abril fatface";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: normal;
+}
+.para
+{
+    color:black;
+    font-size: 20px;
+    font-weight:550;
+    font-family: "Satisfy";
+}
+.outcontainer
+{
+    background-image:url("shiva.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+.tourism-card
+{
+    text-align: center;
+    background-color: #c0a986;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 15px;
+}
+.button
+{
+    color: white;
+    background-color: #000000;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    border-width: 0px;
+}
+.button1
+{
+    color: white;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    border-width: 0px;
+}
+.button2
+{
+    background-color: green;
+}
+.button3
+{
+    background-color: pink;
+}
+.favplace-container
+{
+    background-image: url("https://img.freepik.com/free-photo/mesmerizing-scenery-beautiful-green-mountains-with-cloudy-sky_181624-28595.jpg?t=st=1738586392~exp=1738589992~hmac=639d28d397186752922aae2e48b5f55e668f03c566eff6a749a7c2bc540d5694&w=900");
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow:scroll;
+
+}
+.favplaceheading
+{
+    color:white;
+    font-size: 40px;
+    font-family:'Roboto';
+    font-weight: bold;
+    padding: 30px;
+}
+.card1container
+{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 70vw;
+    margin: 23px;
+}
+.favcard1heading
+{
+    color: black;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: bold;
+}
+.favcard1para
+{
+    color:black;
+    font-size: 20px;
+    padding:10px ;
+}
+.card1image
+{
+    height: 120px;
+    width: 170px;
+}
+.backbutton
+{
+    height: 30px;
+    width: 70px;
+    margin: 30px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 13px;
+    border-width: 0px;
+}
+.diwalitopcard
+{
+    background-image: url("https://blog.getcompass.ai/content/images/size/w1384/2023/08/diwali-messages-.webp");
+    height: 38vh;
+    background-size: cover;
+}
+.diwalitopheading
+{
+    color: white;
+    font-family: 'caveat';
+    font-size: 50px;
+    width: 300px;
+    text-align: center;
+    padding: 42px;
+}
+.diwalibottomcard
+{
+    background-color: #c6f6ff;
+    padding: 25px;
+    text-align: center;
+}
+.diwalibottomitemcard
+{
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
+.diwalibottomitemcardimage
+{
+    height: 200px;
+    width: 200px;
+}
+.diwalibottomitemcardheading
+{
+    font-family: 'Roboto';
+    font-size: 23px;
+    color: #616c7c;
+}
+.diwalibottomitemcardprice
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.detailedview
+{
+    background-image: url("https://images.pexels.com/photos/5028949/pexels-photo-5028949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size:cover;
+    height: 100vh;
+}
+.detailedviewheading
+{
+    color: white;
+    font-size: 40px;
+    font-family:'Roboto';
+    font-weight: bold;
+    padding: 20px;
+}
+.detailedviewcardcontainer
+{
+    background-color: white;
+    width:33vw;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 10px;
+}
+.detailedviewcardheading
+{
+    color:#0f0e46;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 30px;
+}
+.detailedviewcardpara
+{
+    font-size: 20px;
+}
+.detailedviewcardtotal
+{
+    padding: 15px;
+}
+.ul1
+{
+    list-style-type: circle;
+}
+.ul2
+{
+    list-style-type: square;
+}
+.ul3
+{
+    list-style-type:none;
+}
+.ol1
+{
+    list-style-type: lower-roman;
+}
+.ol2
+{
+    list-style-type: lower-alpha;
+}
